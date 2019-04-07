@@ -1,8 +1,8 @@
-# Broadway Hangman
+# Gem Game
 
 A interactive guessing game! Use your powers of reason and deduction to guess the number given by clicking on the gems!
 
-![Gem Guess Game]
+![Gem Game](https://user-images.githubusercontent.com/46270669/55689170-aa35ae80-593e-11e9-9439-98a2fc2b6860.png)
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ I suggest these applications 🤘
 ### Installing
 
 ```git
-git clone git@github.com:jennlondon15/Word-Guess-Game.git
+git clone git@github.com:jennlondon15/Gem-Game.git
 ```
 
 You can then simply open the `index.html` file in your browser and play the game. Good luck!!!
